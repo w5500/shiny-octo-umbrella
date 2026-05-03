@@ -25,10 +25,27 @@
 
 ## 💻 本地运行与在线演示
 本项目内置了基于 Streamlit 的可视化 Web 界面。
-<img width="1293" height="1337" alt="image" src="https://github.com/user-attachments/assets/a184da17-8671-41a1-af6f-08455b46a414" />
+
+
+
+<img width="1322" height="1342" alt="屏幕截图 2026-05-04 035311" src="https://github.com/user-attachments/assets/c8e6f253-6598-4b46-914f-f5f5ca49b45d" />
+
+
+
+
+<img width="1270" height="4028" alt="image" src="https://github.com/user-attachments/assets/1cd5e307-50cf-471a-be46-886be8e97bb1" />
+
+
+
+
+
+
+地址：
 
 
 http://localhost:8501/
+
+
 
 **安装依赖：**
 
