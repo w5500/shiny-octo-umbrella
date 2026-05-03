@@ -25,9 +25,13 @@
 
 ## 💻 本地运行与在线演示
 本项目内置了基于 Streamlit 的可视化 Web 界面。
+<img width="1293" height="1337" alt="image" src="https://github.com/user-attachments/assets/a184da17-8671-41a1-af6f-08455b46a414" />
+
+
+http://localhost:8501/
 
 **安装依赖：**
-```bash
+
 pip install openai streamlit
 
-<img width="1397" height="1409" alt="image" src="https://github.com/user-attachments/assets/4b1789c5-48bf-45d9-91cb-fcbcca6b5eac" />
+
