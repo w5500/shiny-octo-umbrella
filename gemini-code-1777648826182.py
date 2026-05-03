@@ -3,11 +3,11 @@ from typing import List, Dict
 from openai import OpenAI
 
 # 初始化客户端 (此处可替换为任意支持 OpenAI 格式的 API 端点)
-client = OpenAI(api_key="YOUR_API_KEY", base_url="https://api.example.com/v1")
+client = OpenAI(api_key="sk-ad4c1fe9fb8d42a596a07738affeff80", base_url="https://api.deepseek.com")
 
 class ContentFactory:
     def __init__(self):
-        self.model = "gpt-4-turbo" # 建议使用具备长链推理能力的模型
+        self.model = "deepseek-v4-pro" # 建议使用具备长链推理能力的模型
 
     async def trend_analyzer_agent(self, raw_data: str) -> str:
         """Agent 1: 趋势分析专家 - 负责从海量信息中提取爆款因子"""
