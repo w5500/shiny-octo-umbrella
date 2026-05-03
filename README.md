@@ -29,4 +29,5 @@
 **安装依赖：**
 ```bash
 pip install openai streamlit
+
 <img width="1397" height="1409" alt="image" src="https://github.com/user-attachments/assets/4b1789c5-48bf-45d9-91cb-fcbcca6b5eac" />
