@@ -45,7 +45,11 @@
 
 http://localhost:8501/
 
+
 https://shiny-octo-umbrella-869luqc94s7kz54qcu3akw.streamlit.app/
+
+
+https://aigc-content-factory-ihduxcnpqopdiu7sw77fvf.streamlit.app/
 
 
 
