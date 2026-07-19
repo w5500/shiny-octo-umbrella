@@ -37,13 +37,7 @@
 
 
 
-
-
-
-地址：
-
-
-http://localhost:8501/
+ 地址
 
 
 https://shiny-octo-umbrella-869luqc94s7kz54qcu3akw.streamlit.app/
